@@ -1,0 +1,62 @@
+<html>
+<head>
+<meta name="description" content="La mejor información sobre los baños termales de Tapia">
+
+
+
+<title>Aguas termales de Tapia! </title>
+</head>
+
+<body background="bg.png" bgcolor="white">
+<center><table width="950"><tr><td>
+
+<img src="logo.png"></a>
+
+
+<a href="index.html">
+<img src="inicio.jpg"></a>
+<a href="ruta.html">
+<img src="ruta.jpg"></a>
+<a href="historia.html">
+<img src="historia.jpg"></a>
+<a href="contacto.html">
+<img src="contacto.jpg"></a>
+
+
+<p><center><img src="banner.png"></center></p>
+
+
+
+<center><table border ="1" width="75%" bgcolor="white">
+<tr>
+
+<td colspan="2"><center><font face="verdana"><h1>Propósito de la página:</h1></font></center></td>
+
+
+</tr>
+<tr>
+<td><p>Esta página fue creada con el fin de que más personas sepan sobre este lugar porque no cuenta con mucha publicidad para que llegué a las personas. Por eso acá te vamos a hablar sobre la historia de este lugar, támbien sobre la ruta y al final algunos contactos para que se puedan comunicar con los dueños. </p>
+
+<h1><font color="red" face="verdana">Diseñador wed</font></h1>
+<h2>Ricardo Lozano Díaz</h2>
+<h3>Estudiante de Life School</h3>
+<h4><img src="life.png"></h4>
+
+
+
+
+
+</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</center>
+</td></tr></table></center>
+
+
+</body>
+</html>
